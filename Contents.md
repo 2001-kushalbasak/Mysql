@@ -1,4 +1,5 @@
 
+
 # CONTENT:
 1-> Creating Database and Creating Basic Table
 2-> Creating Table with Constraints(default,check,unique,not null)
