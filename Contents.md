@@ -5,5 +5,6 @@
 2-> Creating Table with Constraints(default,check,unique,not null)
 3->Insertion in table / Multiple Insertion in table
 4->Select Command / Select Command with AS Function
+6->Where Clause Basic Usage
 
 # SHOW SOME LOVE ♥️
