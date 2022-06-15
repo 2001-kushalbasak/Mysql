@@ -1,4 +1,4 @@
-CREATE TABLE s2(
+CREATE TABLE table_name(
     id INT AUTO_INCREMENT,
     PRIMARY KEY(id),
     name VARCHAR(255) NOT NULL,
