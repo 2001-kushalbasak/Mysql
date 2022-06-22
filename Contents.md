@@ -7,5 +7,6 @@
 4->Select Command / Select Command with AS Function
 5->Where Clause Basic Usage
 6->Create table using Auto Increment and Primary Key
+7->Primary Key Foreign Key Connection Between Two Tables or Relation
 
 # SHOW SOME LOVE ♥️
